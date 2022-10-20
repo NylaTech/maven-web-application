@@ -9,12 +9,12 @@
 </head>
 </head>
 <body>
+<img src="images/Achivers.png" alt="" width="200">
 <h1 align="center">Welcome to the Home of Achievers.</h1>
 <h2 align="center"> We are working towards the completion of DevOps Master Training.
 	All active members of Achievers groups will land at least one six figures Devops jobs by the end of 2022. 
 	Stay fast, better days are coming.
-	Financial and wealth stability are coming.
-	The shout of the King Jesus is in our midst. HE IS OUR SUCCESS ACCESS KEY</h2>
+	Financial and wealth stability are coming. </h2>
 <hr>
 <div style="text-align: center;">
 	<span>
@@ -22,24 +22,23 @@
 	</span>
 	<span style="font-weight: bold;">
 		ACHIEVERS THE BEST OF THE BEST
-		The shout of the King Jesus is in our midst. 
-		HE IS OUR SUCCESS ACCESS KEY
 		<br>
 	</span>
 </div>
 <hr>
 <h3 align="center">
 	All Achievers are future millionaire.</h3>
+<h4 align="center">
+	The shout of the King Jesus is in our midst. 
+		HE IS OUR SUCCESS ACCESS KEY.</h4>
 <hr>
 <div style="text-align: center;">
 	<span>
 		<img src="images/6figures.jpg" alt="" width="200">
 	</span>
 	<span style="font-weight: bold;">
-		Landmark Technology, 
-		Toronto, Ontario, Canada
-		+1 437 215 2483,
-		mylandmarktech@gmail.com
+		WE ARE MILLIONAIRE
+	
 		<br>
 		<a href="mailto:mylandmarktech@gmail.com">Mail to Landmark Technologies</a>
 	</span>
