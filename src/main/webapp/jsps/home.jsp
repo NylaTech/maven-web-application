@@ -5,7 +5,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>MylandmarkTech.com- Home Page</title>
-<link href="images/Team achievers.jpg" rel="icon">
+<link href="images/Teamachievers.jpg" rel="icon">
 </head>
 </head>
 <body>
@@ -19,7 +19,7 @@
 <div style="text-align: center;">
 	<span>
 		<img src="images/Achivers.pnp" alt="" width="200">
-		<img src="images/6 figures.jpg" alt="" width="100">
+		<img src="images/6figures.jpg" alt="" width="100">
 	</span>
 	<span style="font-weight: bold;">
 		Landmark Technology, 
