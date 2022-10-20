@@ -9,10 +9,11 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Landmark Technologies.</h1>
-<h2 align="center"> We are supporting the Ebay Black Friday Project.
-	Landmark Technologies is a software development company. 
-	Class26 will run from October 2, 2021.
+<h1 align="center">Welcome to the Home of Achievers.</h1>
+<h2 align="center"> We are working towards the completion of DevOps Master Training.
+	All active members of Achievers groups will land at least one six figures Devops jobs by the end of 2022. 
+	Stay fast, better days are coming.
+	Financial and wealth stability are coming.
 	The shout of the King Jesus is in our midst. HE IS OUR SUCCESS ACCESS KEY</h2>
 <hr>
 <div style="text-align: center;">
@@ -34,6 +35,5 @@
 <hr>
 <p align=center>Landmark Technologies - Consultant, Training, Development Center.</p>
 <p align=center><small>Copyrights 2019 by <a href="http://mylandmark.tech/">Landmark Technologies</a> </small></p>
-
 </body>
 </html>
