@@ -18,8 +18,22 @@
 <hr>
 <div style="text-align: center;">
 	<span>
-		<img src="images/Achivers.pnp" alt="" width="200">
-		<img src="images/6figures.jpg" alt="" width="100">
+		<img src="images/Teamachievers.jpg" alt="" width="200">
+	</span>
+	<span style="font-weight: bold;">
+		ACHIEVERS THE BEST OF THE BEST
+		The shout of the King Jesus is in our midst. 
+		HE IS OUR SUCCESS ACCESS KEY
+		<br>
+	</span>
+</div>
+<hr>
+<h3 align="center">
+	All Achievers are future millionaire.</h3>
+<hr>
+<div style="text-align: center;">
+	<span>
+		<img src="images/6figures.jpg" alt="" width="200">
 	</span>
 	<span style="font-weight: bold;">
 		Landmark Technology, 
